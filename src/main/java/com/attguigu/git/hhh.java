@@ -1,8 +1,7 @@
 package com.attguigu.git;
 
-public class Good {
+public class hhh {
 	public static void main(String[] args) {
-		System.out.println("sjj");
+		System.out.println("fffff");
 	}
-
 }
